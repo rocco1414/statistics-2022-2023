@@ -1,0 +1,14 @@
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.vbproj.AssemblyReference.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.Form1.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.Form2.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.Resources.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.vbproj.GenerateResource.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.vbproj.CoreCompileInputs.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\bin\Debug\HomeWork01_VB.net.exe.config
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\bin\Debug\HomeWork01_VB.net.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\bin\Debug\HomeWork01_VB.net.pdb
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\bin\Debug\HomeWork01_VB.net.xml
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.xml
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework01\HomeWork01_VB.net\obj\Debug\HomeWork01_VB.net.pdb
