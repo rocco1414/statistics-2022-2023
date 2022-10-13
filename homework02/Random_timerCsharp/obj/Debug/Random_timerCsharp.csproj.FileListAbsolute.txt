@@ -1,0 +1,11 @@
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\bin\Debug\Random_timerCsharp.exe.config
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\bin\Debug\Random_timerCsharp.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\bin\Debug\Random_timerCsharp.pdb
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\obj\Debug\Random_timerCsharp.csproj.AssemblyReference.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\obj\Debug\Random_timerCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\obj\Debug\Random_timerCsharp.Form1.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\obj\Debug\Random_timerCsharp.Properties.Resources.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\obj\Debug\Random_timerCsharp.csproj.GenerateResource.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\obj\Debug\Random_timerCsharp.csproj.CoreCompileInputs.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\obj\Debug\Random_timerCsharp.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_timerCsharp\obj\Debug\Random_timerCsharp.pdb

@@ -1,0 +1,13 @@
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\bin\Debug\Random_Timer.exe.config
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\bin\Debug\Random_Timer.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\bin\Debug\Random_Timer.pdb
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\bin\Debug\Random_Timer.xml
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\obj\Debug\Random_Timer.vbproj.AssemblyReference.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\obj\Debug\Random_Timer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\obj\Debug\Random_Timer.Form1.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\obj\Debug\Random_Timer.Resources.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\obj\Debug\Random_Timer.vbproj.GenerateResource.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\obj\Debug\Random_Timer.vbproj.CoreCompileInputs.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\obj\Debug\Random_Timer.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\obj\Debug\Random_Timer.xml
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\Random_Timer\obj\Debug\Random_Timer.pdb

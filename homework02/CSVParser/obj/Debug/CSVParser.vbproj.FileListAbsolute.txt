@@ -1,0 +1,13 @@
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\bin\Debug\CSVParser.exe.config
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\bin\Debug\CSVParser.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\bin\Debug\CSVParser.pdb
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\bin\Debug\CSVParser.xml
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\obj\Debug\CSVParser.vbproj.AssemblyReference.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\obj\Debug\CSVParser.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\obj\Debug\CSVParser.Form1.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\obj\Debug\CSVParser.Resources.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\obj\Debug\CSVParser.vbproj.GenerateResource.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\obj\Debug\CSVParser.vbproj.CoreCompileInputs.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\obj\Debug\CSVParser.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\obj\Debug\CSVParser.xml
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework02\CSVParser\obj\Debug\CSVParser.pdb
