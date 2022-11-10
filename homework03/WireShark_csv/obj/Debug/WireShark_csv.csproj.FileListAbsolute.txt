@@ -1,0 +1,11 @@
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\obj\Debug\WireShark_csv.csproj.AssemblyReference.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\obj\Debug\WireShark_csv.csproj.SuggestedBindingRedirects.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\obj\Debug\WireShark_csv.Form1.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\obj\Debug\WireShark_csv.Properties.Resources.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\obj\Debug\WireShark_csv.csproj.GenerateResource.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\obj\Debug\WireShark_csv.csproj.CoreCompileInputs.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\bin\Debug\WireShark_csv.exe.config
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\bin\Debug\WireShark_csv.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\bin\Debug\WireShark_csv.pdb
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\obj\Debug\WireShark_csv.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework03\WireShark_csv\obj\Debug\WireShark_csv.pdb
