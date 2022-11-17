@@ -1,0 +1,11 @@
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\bin\Debug\homework05-histogram.exe.config
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\bin\Debug\homework05-histogram.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\bin\Debug\homework05-histogram.pdb
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\obj\Debug\homework05-histogram.csproj.AssemblyReference.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\obj\Debug\homework05-histogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\obj\Debug\homework05_histogram.Form1.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\obj\Debug\homework05_histogram.Properties.Resources.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\obj\Debug\homework05-histogram.csproj.GenerateResource.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\obj\Debug\homework05-histogram.csproj.CoreCompileInputs.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\obj\Debug\homework05-histogram.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-histogram\obj\Debug\homework05-histogram.pdb
