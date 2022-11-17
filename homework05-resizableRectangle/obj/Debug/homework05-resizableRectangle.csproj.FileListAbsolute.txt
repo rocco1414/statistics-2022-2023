@@ -1,0 +1,11 @@
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\obj\Debug\homework05-resizableRectangle.csproj.AssemblyReference.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\obj\Debug\homework05-resizableRectangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\obj\Debug\homework05_resizableRectangle.Form1.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\obj\Debug\homework05_resizableRectangle.Properties.Resources.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\obj\Debug\homework05-resizableRectangle.csproj.GenerateResource.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\obj\Debug\homework05-resizableRectangle.csproj.CoreCompileInputs.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\bin\Debug\homework05-resizableRectangle.exe.config
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\bin\Debug\homework05-resizableRectangle.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\bin\Debug\homework05-resizableRectangle.pdb
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\obj\Debug\homework05-resizableRectangle.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework05-resizableRectangle\obj\Debug\homework05-resizableRectangle.pdb
