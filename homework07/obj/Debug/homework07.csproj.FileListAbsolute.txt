@@ -1,0 +1,11 @@
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\bin\Debug\homework07.exe.config
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\bin\Debug\homework07.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\bin\Debug\homework07.pdb
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\obj\Debug\homework07.csproj.AssemblyReference.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\obj\Debug\homework07.csproj.SuggestedBindingRedirects.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\obj\Debug\homework07.Form1.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\obj\Debug\homework07.Properties.Resources.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\obj\Debug\homework07.csproj.GenerateResource.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\obj\Debug\homework07.csproj.CoreCompileInputs.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\obj\Debug\homework07.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework07\obj\Debug\homework07.pdb
