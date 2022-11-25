@@ -1,0 +1,11 @@
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\bin\Debug\homework08-2.exe.config
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\bin\Debug\homework08-2.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\bin\Debug\homework08-2.pdb
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\obj\Debug\homework08-2.csproj.AssemblyReference.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\obj\Debug\homework08-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\obj\Debug\homework08_2.Form1.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\obj\Debug\homework08_2.Properties.Resources.resources
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\obj\Debug\homework08-2.csproj.GenerateResource.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\obj\Debug\homework08-2.csproj.CoreCompileInputs.cache
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\obj\Debug\homework08-2.exe
+C:\Users\rocco\OneDrive\Desktop\home\Sapienza\statistics\esercizi\homework08-2\obj\Debug\homework08-2.pdb
